@@ -1,6 +1,3 @@
-Below is a sample **README.md** that you can adapt for your GitHub repository. It assumes your final script is called `xenium_pipeline.R`. Feel free to rename files, reorganize content, and expand upon any points that are specific to your project.
-
----
 
 # Xenium Single-Cell Spatial Transcriptomics Pipeline
 
